@@ -1,0 +1,2 @@
+.portrait{background:radial-gradient(circle at 50% 20%,#eaf6ff,#cde8fa);overflow:hidden;display:flex;align-items:flex-end;justify-content:center}
+.portrait img{width:124%;height:100%;object-fit:cover;object-position:center bottom;filter:drop-shadow(0 18px 15px rgba(21,40,63,.12))}
