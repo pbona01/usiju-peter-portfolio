@@ -1,0 +1,526 @@
+- generic [ref=e3]:
+  - banner [ref=e4]:
+    - generic [ref=e5]:
+      - link "4:44 Premium Solutions Official Logo 4:44 PREMIUM SOLUTIONS Abuja • Nigeria" [ref=e6] [cursor=pointer]:
+        - /url: /
+        - img "4:44 Premium Solutions Official Logo" [ref=e7]
+        - generic [ref=e8]:
+          - generic [ref=e9]: 4:44 PREMIUM SOLUTIONS
+          - generic [ref=e10]: Abuja • Nigeria
+      - navigation "Main Navigation" [ref=e11]:
+        - link "Home" [ref=e12] [cursor=pointer]:
+          - /url: /
+        - link "Projects" [ref=e13] [cursor=pointer]:
+          - /url: /projects
+        - button "Services" [ref=e15]
+        - link "About" [ref=e19] [cursor=pointer]:
+          - /url: /about
+        - link "Contact" [ref=e20] [cursor=pointer]:
+          - /url: /contact
+      - generic [ref=e21]:
+        - link "+234 901 669 6490" [ref=e22] [cursor=pointer]:
+          - /url: tel:+2349016696490
+        - link "Start a Project" [ref=e26] [cursor=pointer]:
+          - /url: /contact
+  - main [ref=e31]:
+    - generic [ref=e32]:
+      - generic [ref=e33]:
+        - generic [ref=e35]:
+          - img "4:44 Premium Solutions Logo" [ref=e37]
+          - paragraph [ref=e39]: REAL ESTATE • INTERIOR DESIGN • CONSTRUCTION • CARE
+          - generic [ref=e41]:
+            - link "Start a Project" [ref=e42] [cursor=pointer]:
+              - /url: /contact
+            - link "Call +234 901 669 6490" [ref=e43] [cursor=pointer]:
+              - /url: tel:+2349016696490
+        - generic [ref=e47]: Scroll
+      - generic [ref=e54]:
+        - generic [ref=e55]: 02 • Spatial Philosophy
+        - heading "We don’t just decorate spaces. We help shape what they become." [level=2] [ref=e56]
+        - generic [ref=e57]:
+          - generic [ref=e58]:
+            - paragraph [ref=e59]:
+              - text: In an industry fragmented between distant estate agents, conceptual decorators, independent carpenters, and generic cleaners,
+              - strong [ref=e60]: 4:44 Premium Solutions
+              - text: bridges the entire journey.
+            - paragraph [ref=e61]: We combine technical property sourcing in Abuja’s prime districts with bespoke interior architecture, in-house joinery and door manufacturing at our Deidei workshop, and specialist handover maintenance. Every phase informs the next, resulting in spaces that function effortlessly and age with enduring distinction.
+          - generic [ref=e62]:
+            - generic [ref=e63]: Core Distinction
+            - paragraph [ref=e64]: Direct manufacturing control from our Deidei site ensures zero compromises between 3D design visions and physical site realities.
+            - link "Read Studio Story" [ref=e65] [cursor=pointer]:
+              - /url: /about
+      - generic [ref=e72]:
+        - generic [ref=e73]:
+          - generic [ref=e74]:
+            - generic [ref=e75]: 03 • The Strategic Framework
+            - heading "One Partner. Every Stage of the Space." [level=2] [ref=e76]
+          - paragraph [ref=e77]: We structure our capabilities into four interconnected disciplines, guiding properties from initial acquisition through bespoke creation and ongoing preservation.
+        - generic [ref=e78]:
+          - generic [ref=e79] [cursor=pointer]:
+            - generic [ref=e80]:
+              - generic:
+                - img "FIND"
+              - generic [ref=e82]:
+                - generic [ref=e83]:
+                  - generic [ref=e84]: "01"
+                  - paragraph [ref=e85]: Property Acquisition & Strategic Advisory
+                - heading "FIND" [level=3] [ref=e86]
+            - generic [ref=e87]:
+              - paragraph [ref=e88]: Sourcing primed residential and commercial real estate in Abuja with spatial potential and clear title integrity.
+              - generic [ref=e89]:
+                - generic [ref=e90]: "Core Capabilities:"
+                - link "Real Estate Brokerage & Advisory" [ref=e92]:
+                  - /url: /services/real-estate
+                - link "Explore FIND" [ref=e93]:
+                  - /url: /services?pillar=find
+          - generic [ref=e98] [cursor=pointer]:
+            - generic [ref=e99]:
+              - generic:
+                - img "DESIGN"
+              - generic [ref=e101]:
+                - generic [ref=e102]:
+                  - generic [ref=e103]: "02"
+                  - paragraph [ref=e104]: Spatial Architecture, Interior Direction & 3D Visualisation
+                - heading "DESIGN" [level=3] [ref=e105]
+            - generic [ref=e106]:
+              - paragraph [ref=e107]: Transforming raw volume into tailored, human-scaled spaces with rigorous ergonomic planning and photorealistic visualisations.
+              - generic [ref=e108]:
+                - generic [ref=e109]: "Core Capabilities:"
+                - generic [ref=e110]:
+                  - link "Interior Design" [ref=e111]:
+                    - /url: /services/interior-design
+                  - link "Space Planning" [ref=e112]:
+                    - /url: /services/space-planning
+                  - link "3D Visualisation" [ref=e113]:
+                    - /url: /services/3d-visualisation
+                - link "Explore DESIGN" [ref=e114]:
+                  - /url: /services?pillar=design
+          - generic [ref=e119] [cursor=pointer]:
+            - generic [ref=e120]:
+              - generic:
+                - img "BUILD & FINISH"
+              - generic [ref=e122]:
+                - generic [ref=e123]:
+                  - generic [ref=e124]: "03"
+                  - paragraph [ref=e125]: Precision Joinery, Custom Doors, Flooring & Upholstery
+                - heading "BUILD & FINISH" [level=3] [ref=e126]
+            - generic [ref=e127]:
+              - paragraph [ref=e128]: Direct manufacturing execution from our Deidei workshop to site installation, guaranteeing flawless material integrity.
+              - generic [ref=e129]:
+                - generic [ref=e130]: "Core Capabilities:"
+                - generic [ref=e131]:
+                  - link "Door Installation & Custom Joinery" [ref=e132]:
+                    - /url: /services/door-installation
+                  - link "Wooden Flooring" [ref=e133]:
+                    - /url: /services/wooden-flooring
+                  - link "Upholstery & Architectural Lighting" [ref=e134]:
+                    - /url: /services/upholstery-lighting
+                - link "Explore BUILD & FINISH" [ref=e135]:
+                  - /url: /services?pillar=build
+          - generic [ref=e140] [cursor=pointer]:
+            - generic [ref=e141]:
+              - generic:
+                - img "CARE"
+              - generic [ref=e143]:
+                - generic [ref=e144]:
+                  - generic [ref=e145]: "04"
+                  - paragraph [ref=e146]: Specialist Cleaning, Pest Management & Landscape Horticulture
+                - heading "CARE" [level=3] [ref=e147]
+            - generic [ref=e148]:
+              - paragraph [ref=e149]: Preserving property hygiene, handover cleanliness, and lush exterior environments across the lifecycle of your space.
+              - generic [ref=e150]:
+                - generic [ref=e151]: "Core Capabilities:"
+                - generic [ref=e152]:
+                  - link "Post-Construction Cleaning" [ref=e153]:
+                    - /url: /services/post-construction-cleaning
+                  - link "Industrial Cleaning & Pest Control" [ref=e154]:
+                    - /url: /services/industrial-cleaning-pest-control
+                  - link "Horticulture & Landscape Design" [ref=e155]:
+                    - /url: /services/horticulture
+                - link "Explore CARE" [ref=e156]:
+                  - /url: /services?pillar=care
+      - generic [ref=e162]:
+        - generic [ref=e164]:
+          - generic [ref=e165]:
+            - generic [ref=e166]: 06 • The Portfolio Archive
+            - heading "Selected Work" [level=2] [ref=e167]
+          - paragraph [ref=e168]: A curated selection of our finest completed commissions across Abuja, showcasing our integrated approach from property sourcing to final custom finishing.
+        - generic [ref=e170]:
+          - generic [ref=e171]:
+            - generic [ref=e172]:
+              - generic:
+                - img "Maitama Executive Interior"
+            - generic [ref=e173]:
+              - generic [ref=e174]:
+                - generic [ref=e178]: Maitama, Abuja
+                - generic [ref=e179]: •
+                - generic [ref=e180]: "2024"
+              - heading "Maitama Executive Interior" [level=3] [ref=e181]
+              - paragraph [ref=e182]: An expansive private residence in Maitama transformed with warm timber finishes, bespoke joinery, and tailored spatial ergonomics celebrating architectural light.
+              - generic [ref=e183]:
+                - generic [ref=e184]: Residential
+                - link "View Case Study" [ref=e185] [cursor=pointer]:
+                  - /url: /projects/maitama-executive-residence
+          - generic [ref=e190]:
+            - generic [ref=e191]:
+              - generic:
+                - img "Guzape Hills Residence"
+            - generic [ref=e192]:
+              - generic [ref=e193]:
+                - generic [ref=e197]: Guzape, Abuja
+                - generic [ref=e198]: •
+                - generic [ref=e199]: "2024"
+              - heading "Guzape Hills Residence" [level=3] [ref=e200]
+              - paragraph [ref=e201]: A private hillside penthouse crafted with tactile materiality, layered ambient lighting, and bespoke upholstered elements tailored to spacious room dimensions.
+              - generic [ref=e202]:
+                - generic [ref=e203]: Residential
+                - link "View Case Study" [ref=e204] [cursor=pointer]:
+                  - /url: /projects/guzape-hills-penthouse
+          - generic [ref=e209]:
+            - generic [ref=e210]:
+              - generic:
+                - img "Wuse 2 Executive Corporate Space"
+            - generic [ref=e211]:
+              - generic [ref=e212]:
+                - generic [ref=e216]: Wuse 2, Abuja
+                - generic [ref=e217]: •
+                - generic [ref=e218]: "2023"
+              - heading "Wuse 2 Executive Corporate Space" [level=3] [ref=e219]
+              - paragraph [ref=e220]: An executive commercial office suite in Wuse 2 designed to balance meeting privacy with comfortable open collaboration zones.
+              - generic [ref=e221]:
+                - generic [ref=e222]: Commercial
+                - link "View Case Study" [ref=e223] [cursor=pointer]:
+                  - /url: /projects/wuse-corporate-executive-suite
+          - generic [ref=e228]:
+            - generic [ref=e229]:
+              - generic:
+                - img "Asokoro Residential Villa"
+            - generic [ref=e230]:
+              - generic [ref=e231]:
+                - generic [ref=e235]: Asokoro, Abuja
+                - generic [ref=e236]: •
+                - generic [ref=e237]: "2024"
+              - heading "Asokoro Residential Villa" [level=3] [ref=e238]
+              - paragraph [ref=e239]: Acquisition and comprehensive compound finishing in Asokoro, integrating bespoke hardwood doors, wooden flooring, and lush exterior horticulture.
+              - generic [ref=e240]:
+                - generic [ref=e241]: Residential
+                - link "View Case Study" [ref=e242] [cursor=pointer]:
+                  - /url: /projects/asokoro-villa-compound
+          - generic [ref=e247]:
+            - generic [ref=e248]:
+              - generic:
+                - img "Maitama Executive Interior"
+            - generic [ref=e249]:
+              - generic [ref=e250]:
+                - generic [ref=e254]: Maitama, Abuja
+                - generic [ref=e255]: •
+                - generic [ref=e256]: "2024"
+              - heading "Maitama Executive Interior" [level=3] [ref=e257]
+              - paragraph [ref=e258]: An expansive private residence in Maitama transformed with warm timber finishes, bespoke joinery, and tailored spatial ergonomics celebrating architectural light.
+              - generic [ref=e259]:
+                - generic [ref=e260]: Residential
+                - link "View Case Study" [ref=e261] [cursor=pointer]:
+                  - /url: /projects/maitama-executive-residence
+          - generic [ref=e266]:
+            - generic [ref=e267]:
+              - generic:
+                - img "Guzape Hills Residence"
+            - generic [ref=e268]:
+              - generic [ref=e269]:
+                - generic [ref=e273]: Guzape, Abuja
+                - generic [ref=e274]: •
+                - generic [ref=e275]: "2024"
+              - heading "Guzape Hills Residence" [level=3] [ref=e276]
+              - paragraph [ref=e277]: A private hillside penthouse crafted with tactile materiality, layered ambient lighting, and bespoke upholstered elements tailored to spacious room dimensions.
+              - generic [ref=e278]:
+                - generic [ref=e279]: Residential
+                - link "View Case Study" [ref=e280] [cursor=pointer]:
+                  - /url: /projects/guzape-hills-penthouse
+          - generic [ref=e285]:
+            - generic [ref=e286]:
+              - generic:
+                - img "Wuse 2 Executive Corporate Space"
+            - generic [ref=e287]:
+              - generic [ref=e288]:
+                - generic [ref=e292]: Wuse 2, Abuja
+                - generic [ref=e293]: •
+                - generic [ref=e294]: "2023"
+              - heading "Wuse 2 Executive Corporate Space" [level=3] [ref=e295]
+              - paragraph [ref=e296]: An executive commercial office suite in Wuse 2 designed to balance meeting privacy with comfortable open collaboration zones.
+              - generic [ref=e297]:
+                - generic [ref=e298]: Commercial
+                - link "View Case Study" [ref=e299] [cursor=pointer]:
+                  - /url: /projects/wuse-corporate-executive-suite
+          - generic [ref=e304]:
+            - generic [ref=e305]:
+              - generic:
+                - img "Asokoro Residential Villa"
+            - generic [ref=e306]:
+              - generic [ref=e307]:
+                - generic [ref=e311]: Asokoro, Abuja
+                - generic [ref=e312]: •
+                - generic [ref=e313]: "2024"
+              - heading "Asokoro Residential Villa" [level=3] [ref=e314]
+              - paragraph [ref=e315]: Acquisition and comprehensive compound finishing in Asokoro, integrating bespoke hardwood doors, wooden flooring, and lush exterior horticulture.
+              - generic [ref=e316]:
+                - generic [ref=e317]: Residential
+                - link "View Case Study" [ref=e318] [cursor=pointer]:
+                  - /url: /projects/asokoro-villa-compound
+        - generic [ref=e324]:
+          - generic [ref=e325]:
+            - heading "Looking for Specific Spatial Categories?" [level=4] [ref=e326]
+            - paragraph [ref=e327]: Explore our full archive of residential villas, corporate offices, and hospitality projects.
+          - link "View All Projects" [ref=e328] [cursor=pointer]:
+            - /url: /projects
+      - generic [ref=e335]:
+        - generic [ref=e336]:
+          - generic [ref=e337]:
+            - generic [ref=e338]: 05 • Spatial Transformations
+            - heading "From Possibility To Place." [level=2] [ref=e339]
+          - generic [ref=e340]:
+            - paragraph [ref=e341]: Witness the tangible before-and-after results of our integrated approach—from bare concrete and outdated layouts to refined, high-performance physical environments.
+            - generic [ref=e342]:
+              - button "Maitama" [ref=e343]
+              - button "Guzape" [ref=e344]
+              - button "Wuse 2" [ref=e345]
+              - button "Asokoro" [ref=e346]
+              - button "Jabi" [ref=e347]
+              - button "Katampe" [ref=e348]
+        - generic [ref=e350]:
+          - generic [ref=e351]:
+            - 'img "Completed transformation: Maitama Executive Interior"'
+            - generic:
+              - 'img "Before transformation: Maitama Executive Interior"'
+            - generic: BEFORE OVERHAUL
+            - generic: COMPLETED SPACE
+            - slider "Before and after comparison slider" [ref=e352]
+          - generic [ref=e357]:
+            - generic [ref=e358]:
+              - heading "Maitama Executive Interior" [level=4] [ref=e359]
+              - paragraph [ref=e360]: Maitama, Abuja
+              - paragraph [ref=e361]: Spatial transition from raw masonry and partition works to completed refined interior atmosphere.
+            - paragraph [ref=e362]: Drag slider or use arrow keys
+        - generic [ref=e363]:
+          - paragraph [ref=e364]: Drag the center divider horizontally or use keyboard arrow keys to inspect the craftsmanship.
+          - link "View All Transformation Case Studies" [ref=e365] [cursor=pointer]:
+            - /url: /projects/before-after
+      - generic [ref=e371]:
+        - generic:
+          - generic:
+            - img "Interior architecture detail by 4:44"
+        - generic [ref=e373]:
+          - generic [ref=e374]:
+            - generic [ref=e375]:
+              - generic:
+                - img "4:44 Premium Solutions interior architecture project in Abuja"
+              - generic [ref=e376]:
+                - generic [ref=e377]:
+                  - generic [ref=e378]: INTERIOR ARCHITECTURE
+                  - text: 4:44 Spatial Direction
+                - generic [ref=e379]: ABUJA, NIGERIA
+            - generic [ref=e380]:
+              - generic [ref=e381]:
+                - generic:
+                  - img "Custom joinery and lighting detail by 4:44"
+              - generic [ref=e382]:
+                - generic:
+                  - img "Textile and finishing detail by 4:44"
+          - generic [ref=e383]:
+            - generic [ref=e384]:
+              - generic [ref=e385]: 06 • Visual Anchor
+              - heading "Designed for How You Actually Live." [level=2] [ref=e386]
+            - paragraph [ref=e387]: True luxury is not about ostentation; it is about ease. Our interior design practice calibrates acoustics, natural daylight trajectories, sightlines, and circulation to create spaces that feel calm, cohesive, and deeply personal.
+            - generic [ref=e388]:
+              - generic [ref=e389]:
+                - heading "Proportion & Flow" [level=3] [ref=e390]
+                - paragraph [ref=e391]: Balancing volumetric scale and human ergonomics so furniture never crowds or feels lost.
+              - generic [ref=e392]:
+                - heading "Layered Illumination" [level=3] [ref=e393]
+                - paragraph [ref=e394]: Integrating 2700K ambient, task, and architectural cove lights that flatter mood and materials.
+              - generic [ref=e395]:
+                - heading "Tactile Materiality" [level=3] [ref=e396]
+                - paragraph [ref=e397]: Pairing seasoned Nigerian hardwoods, honed natural quartzite, and rich acoustic textiles.
+              - generic [ref=e398]:
+                - heading "Functional Longevity" [level=3] [ref=e399]
+                - paragraph [ref=e400]: Selecting stain-resistant fabrics and climate-stable engineered finishes built to endure.
+            - generic [ref=e401]:
+              - link "Explore Interior Design" [ref=e402] [cursor=pointer]:
+                - /url: /services/interior-design
+              - link "View Project Portfolio" [ref=e407] [cursor=pointer]:
+                - /url: /projects
+      - generic [ref=e414]:
+        - generic [ref=e415]:
+          - generic [ref=e416]: 11 • Client Perspectives
+          - heading "Direct Experience" [level=2] [ref=e417]
+        - generic [ref=e419]:
+          - paragraph [ref=e420]: “4:44 brought an unprecedented level of spatial discipline to our Maitama residence. Instead of merely presenting renders, their team managed everything from floor preparation and custom door installations to the final handover cleaning. Truly an end-to-end partner.”
+          - generic [ref=e421]:
+            - generic [ref=e422]:
+              - img "Executive Client" [ref=e423]
+              - generic [ref=e424]:
+                - generic [ref=e425]: Executive Client
+                - generic [ref=e426]: Private Homeowner • Full Residence Interior & Finishing
+            - generic [ref=e427]: Maitama, Abuja
+        - generic [ref=e428]:
+          - generic [ref=e429]:
+            - paragraph [ref=e430]: “Having the Deidei production facility directly backing their design studio in Wuse 2 gave us complete confidence in custom joinery timelines and door quality. The execution matches the 3D visualisations impeccably.”
+            - generic [ref=e431]:
+              - generic [ref=e432]:
+                - img "Managing Director" [ref=e433]
+                - generic [ref=e434]:
+                  - generic [ref=e435]: Managing Director
+                  - text: Corporate Office Development
+              - generic [ref=e436]: Wuse 2, Abuja
+          - generic [ref=e437]:
+            - paragraph [ref=e438]: “Their post-construction deep clean and horticulture layout transformed our property right before tenant move-in. The attention to detail on hardwood finishes was remarkable.”
+            - generic [ref=e439]:
+              - generic [ref=e440]:
+                - img "Property Portfolio Manager" [ref=e441]
+                - generic [ref=e442]:
+                  - generic [ref=e443]: Property Portfolio Manager
+                  - text: Asset Management
+              - generic [ref=e444]: Guzape, Abuja
+      - generic [ref=e447]:
+        - generic [ref=e448]:
+          - generic [ref=e449]: 12 • Infrastructure & Operational Depth
+          - heading "Ideas Are Only The Beginning." [level=2] [ref=e450]
+          - paragraph [ref=e451]: A beautiful 3D render is easy to create. The true test of an architectural partner is the discipline, precision machinery, and specialized craftsmen required to build it in reality.
+        - generic [ref=e452]:
+          - generic [ref=e453]:
+            - generic [ref=e454]: FACILITY 01 • WUSE 2
+            - generic [ref=e461]:
+              - heading "Abuja Design Studio & Office" [level=3] [ref=e462]
+              - paragraph [ref=e463]:
+                - generic [ref=e467]: 59 Parakou St, Wuse 2, Abuja 900288, FCT, Nigeria
+            - paragraph [ref=e468]: Where client consultations, 3D architectural rendering, material board sampling, spatial feasibility studies, and project management roadmaps originate.
+            - generic [ref=e469]:
+              - generic [ref=e470]: MONDAY – FRIDAY
+              - generic [ref=e471]: 9:00 AM – 6:00 PM
+          - generic [ref=e472]:
+            - generic [ref=e473]: FACILITY 02 • DEIDEI
+            - generic [ref=e478]:
+              - heading "Production Site & Workshop" [level=3] [ref=e479]
+              - paragraph [ref=e480]:
+                - generic [ref=e484]: Scintilla Junction, Fillingdabo Street, Deidei, Abuja
+            - paragraph [ref=e485]: Dedicated joinery workshops, timber seasoning rooms, custom door manufacturing jigs, precision upholstery benches, and specialist equipment storage.
+            - generic [ref=e486]:
+              - generic [ref=e487]: MANUFACTURING CAPABILITY
+              - generic [ref=e488]: 100% IN-HOUSE
+        - generic [ref=e489]:
+          - paragraph [ref=e490]: Want to review material samples or inspect custom door joinery mockups before commission? Schedule a private studio consultation in Wuse 2.
+          - link "Learn More About Our Team & Standards" [ref=e491] [cursor=pointer]:
+            - /url: /about
+      - generic [ref=e497]:
+        - generic:
+          - img "Luxury villa in Abuja"
+        - generic [ref=e499]:
+          - generic [ref=e500]: Project Consultation
+          - heading "Have a space In Mind?" [level=2] [ref=e501]
+          - paragraph [ref=e502]: Tell us what you are planning, where your property is located in Abuja, and what stage you are at in the process. We will guide you with clarity.
+          - generic [ref=e503]:
+            - link "Start Your Project Brief" [ref=e504] [cursor=pointer]:
+              - /url: /contact
+            - 'link "Call Studio: +234 901 669 6490" [ref=e509] [cursor=pointer]':
+              - /url: tel:+2349016696490
+          - generic [ref=e513]:
+            - generic [ref=e514]: ABUJA DESIGN STUDIO
+            - generic [ref=e515]: •
+            - generic [ref=e516]: DEIDEI WORKSHOP
+            - generic [ref=e517]: •
+            - generic [ref=e518]: 12-MONTH WARRANTY
+  - contentinfo [ref=e519]:
+    - generic [ref=e520]:
+      - generic [ref=e521]:
+        - generic [ref=e522]:
+          - link "4:44 Premium Solutions Footer Logo 4:44 PREMIUM SOLUTIONS Abuja • Federal Capital Territory" [ref=e523] [cursor=pointer]:
+            - /url: /
+            - img "4:44 Premium Solutions Footer Logo" [ref=e524]
+            - generic [ref=e525]:
+              - generic [ref=e526]: 4:44 PREMIUM SOLUTIONS
+              - generic [ref=e527]: Abuja • Federal Capital Territory
+          - paragraph [ref=e528]: An end-to-end space and property solutions company. We help private clients, corporations, and institutions find, design, build, and maintain physical spaces in Abuja, Nigeria.
+          - generic [ref=e529]:
+            - generic [ref=e530]: The 4:44 Integrated System
+            - generic [ref=e531]:
+              - generic [ref=e532]: 01 FIND (Property)
+              - generic [ref=e533]: 02 DESIGN (Interiors)
+              - generic [ref=e534]: 03 BUILD & FINISH
+              - generic [ref=e535]: 04 CARE & HYGIENE
+          - generic [ref=e536]:
+            - generic [ref=e537]: "Connect With Studio:"
+            - generic [ref=e538]:
+              - link "4:44 Instagram" [ref=e539] [cursor=pointer]:
+                - /url: https://www.instagram.com/444premiumsolutions
+              - link "4:44 YouTube Channel" [ref=e543] [cursor=pointer]:
+                - /url: https://www.youtube.com/@444premiumsolutions
+              - link "4:44 LinkedIn" [ref=e547] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/4-44-premium-solutions
+        - generic [ref=e552]:
+          - heading "Services & Pillars" [level=4] [ref=e553]
+          - list [ref=e554]:
+            - listitem [ref=e555]:
+              - link "Real Estate Brokerage & Advisory" [ref=e556] [cursor=pointer]:
+                - /url: /services/real-estate
+            - listitem [ref=e557]:
+              - link "Interior Design" [ref=e558] [cursor=pointer]:
+                - /url: /services/interior-design
+            - listitem [ref=e559]:
+              - link "Space Planning" [ref=e560] [cursor=pointer]:
+                - /url: /services/space-planning
+            - listitem [ref=e561]:
+              - link "3D Visualisation" [ref=e562] [cursor=pointer]:
+                - /url: /services/3d-visualisation
+            - listitem [ref=e563]:
+              - link "Door Installation & Custom Joinery" [ref=e564] [cursor=pointer]:
+                - /url: /services/door-installation
+            - listitem [ref=e565]:
+              - link "Wooden Flooring" [ref=e566] [cursor=pointer]:
+                - /url: /services/wooden-flooring
+            - listitem [ref=e567]:
+              - link "Upholstery & Architectural Lighting" [ref=e568] [cursor=pointer]:
+                - /url: /services/upholstery-lighting
+            - listitem [ref=e569]:
+              - link "View All 10 Capabilities" [ref=e570] [cursor=pointer]:
+                - /url: /services
+        - generic [ref=e574]:
+          - heading "Abuja Locations" [level=4] [ref=e575]
+          - generic [ref=e576]:
+            - generic [ref=e577]:
+              - generic [ref=e578]: Abuja Design Studio & Office
+              - paragraph [ref=e579]:
+                - generic [ref=e583]: 59 Parakou St, Wuse 2, Abuja 900288, Abuja, Federal Capital Territory
+            - generic [ref=e584]:
+              - generic [ref=e585]: Production Site & Workshop
+              - paragraph [ref=e586]:
+                - generic [ref=e590]: Scintilla Junction, Fillingdabo Street, Deidei, Abuja, Federal Capital Territory
+        - generic [ref=e591]:
+          - heading "Direct Inquiries" [level=4] [ref=e592]
+          - generic [ref=e593]:
+            - generic [ref=e594]:
+              - generic [ref=e595]: "Telephones:"
+              - link "+234 901 669 6490" [ref=e596] [cursor=pointer]:
+                - /url: tel:+2349016696490
+              - link "+234 818 988 0978" [ref=e597] [cursor=pointer]:
+                - /url: tel:+2348189880978
+            - generic [ref=e598]:
+              - generic [ref=e599]: "Email:"
+              - link "admin@444premiumsolutions.com" [ref=e600] [cursor=pointer]:
+                - /url: mailto:admin@444premiumsolutions.com
+            - generic [ref=e601]:
+              - generic [ref=e602]: "Studio Hours:"
+              - paragraph [ref=e603]:
+                - generic [ref=e607]: "Monday to Friday: 9:00 AM – 6:00 PM (WAT)"
+            - link "Project Wizard" [ref=e609] [cursor=pointer]:
+              - /url: /contact
+      - generic [ref=e610]:
+        - generic [ref=e611]: © 2026 4:44 Premium Solutions Ltd. All rights reserved. Registered in Nigeria.
+        - generic [ref=e616]:
+          - link "Privacy Policy" [ref=e617] [cursor=pointer]:
+            - /url: /privacy
+          - link "Studio Story" [ref=e618] [cursor=pointer]:
+            - /url: /about
+          - link "Before & After" [ref=e619] [cursor=pointer]:
+            - /url: /projects/before-after
+          - link "Schedule Consultation" [ref=e620] [cursor=pointer]:
+            - /url: /contact
+  - button "Contact 4:44 on WhatsApp" [ref=e622]

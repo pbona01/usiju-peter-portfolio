@@ -1,0 +1,542 @@
+- generic [ref=f1e2]:
+  - banner [ref=f1e3]:
+    - generic [ref=f1e4]:
+      - link "MyKaab home" [ref=f1e5] [cursor=pointer]:
+        - /url: /
+        - img "MyKaab" [ref=f1e7]
+      - navigation "Main" [ref=f1e8]:
+        - link "For riders" [ref=f1e9] [cursor=pointer]:
+          - /url: /for-riders
+        - link "For drivers" [ref=f1e10] [cursor=pointer]:
+          - /url: /for-drivers
+        - link "For business" [ref=f1e11] [cursor=pointer]:
+          - /url: /business
+        - link "Fares" [ref=f1e12] [cursor=pointer]:
+          - /url: /fares
+        - link "Insurance" [ref=f1e13] [cursor=pointer]:
+          - /url: /trip-insurance
+        - link "Safety" [ref=f1e14] [cursor=pointer]:
+          - /url: /safety
+        - link "AUATON" [ref=f1e15] [cursor=pointer]:
+          - /url: /auaton
+        - link "News" [ref=f1e16] [cursor=pointer]:
+          - /url: /blog
+      - generic [ref=f1e17]:
+        - button "Switch to dark mode" [ref=f1e18] [cursor=pointer]
+        - link "Contact" [ref=f1e19] [cursor=pointer]:
+          - /url: /contact
+        - link "Get the app" [ref=f1e20] [cursor=pointer]:
+          - /url: /download
+  - main [ref=f1e21]:
+    - generic [ref=f1e23]:
+      - generic [ref=f1e24]:
+        - heading [level=1] [ref=f1e25]:
+          - text: Ride Proudly
+          - emphasis [ref=f1e26]: Earn Fairly with MyKaab
+        - paragraph [ref=f1e27]:
+          - text: Every fare is itemised before you book, and
+          - strong [ref=f1e28]: the driver keeps all of it.
+          - text: Zero commission.
+        - generic [ref=f1e29]:
+          - link "See the rate card" [ref=f1e30] [cursor=pointer]:
+            - /url: /fares
+          - link "Drive with MyKaab" [ref=f1e33] [cursor=pointer]:
+            - /url: /for-drivers
+        - paragraph [ref=f1e34]: Built and operated with AUATON, the Amalgamated Union of App-Based Transporters of Nigeria.
+      - img "A rider meeting her driver beside a car on a Lagos street" [ref=f1e36]
+    - generic [ref=f1e38]:
+      - list [ref=f1e39]:
+        - listitem [ref=f1e40]:
+          - generic [ref=f1e41]: 0% commission on every trip
+        - listitem [ref=f1e43]:
+          - generic [ref=f1e44]: ₦2,500 base fare, published
+        - listitem [ref=f1e46]:
+          - generic [ref=f1e47]: ₦150 a kilometre
+        - listitem [ref=f1e49]:
+          - generic [ref=f1e50]: 3 free minutes at pickup
+        - listitem [ref=f1e52]:
+          - generic [ref=f1e53]: ₦350 passenger cover, every trip
+        - listitem [ref=f1e55]:
+          - generic [ref=f1e56]: ₦5,000 a day, not a cut of your work
+        - listitem [ref=f1e58]:
+          - generic [ref=f1e59]: 3 classes of car
+        - listitem [ref=f1e61]:
+          - generic [ref=f1e62]: Insurance for riders and drivers
+        - listitem [ref=f1e64]:
+          - generic [ref=f1e65]: Share your trip live
+        - listitem [ref=f1e67]:
+          - generic [ref=f1e68]: In-app wallet
+        - listitem [ref=f1e70]:
+          - generic [ref=f1e71]: Fleet accounts for owners
+        - listitem [ref=f1e73]:
+          - generic [ref=f1e74]: Operated with AUATON
+        - listitem [ref=f1e76]:
+          - generic [ref=f1e77]: Abuja and Lagos
+      - list [aria-hidden] [ref=f1e79]:
+        - listitem [ref=f1e80]:
+          - generic [ref=f1e81]: 0% commission on every trip
+        - listitem [ref=f1e83]:
+          - generic [ref=f1e84]: ₦2,500 base fare, published
+        - listitem [ref=f1e86]:
+          - generic [ref=f1e87]: ₦150 a kilometre
+        - listitem [ref=f1e89]:
+          - generic [ref=f1e90]: 3 free minutes at pickup
+        - listitem [ref=f1e92]:
+          - generic [ref=f1e93]: ₦350 passenger cover, every trip
+        - listitem [ref=f1e95]:
+          - generic [ref=f1e96]: ₦5,000 a day, not a cut of your work
+        - listitem [ref=f1e98]:
+          - generic [ref=f1e99]: 3 classes of car
+        - listitem [ref=f1e101]:
+          - generic [ref=f1e102]: Insurance for riders and drivers
+        - listitem [ref=f1e104]:
+          - generic [ref=f1e105]: Share your trip live
+        - listitem [ref=f1e107]:
+          - generic [ref=f1e108]: In-app wallet
+        - listitem [ref=f1e110]:
+          - generic [ref=f1e111]: Fleet accounts for owners
+        - listitem [ref=f1e113]:
+          - generic [ref=f1e114]: Operated with AUATON
+        - listitem [ref=f1e116]:
+          - generic [ref=f1e117]: Abuja and Lagos
+    - generic [ref=f1e120]:
+      - generic [ref=f1e121]:
+        - strong [ref=f1e122]:
+          - generic [ref=f1e123]: 0%
+        - generic [ref=f1e124]: Commission on every trip
+      - generic [ref=f1e125]:
+        - strong [ref=f1e126]:
+          - generic [ref=f1e127]: ₦2,500
+        - generic [ref=f1e128]: Economy base fare, published
+      - generic [ref=f1e129]:
+        - strong [ref=f1e130]:
+          - generic [ref=f1e131]: 3 min
+        - generic [ref=f1e132]: Free waiting at pickup
+      - generic [ref=f1e133]:
+        - strong [ref=f1e134]: 24/7
+        - generic [ref=f1e135]: Safety desk on the trip screen
+    - generic [ref=f1e136]:
+      - generic [ref=f1e137]:
+        - generic [ref=f1e138]:
+          - paragraph [ref=f1e139]: Why MyKaab
+          - heading "Built around the driver." [level=2] [ref=f1e140]
+        - paragraph [ref=f1e141]: Drivers keep every naira of the fare, insure their car and their future from the app, and are treated fairly. Riders get insurance, safety tools and a wallet, and companies get transport they can rely on.
+      - generic [ref=f1e142]:
+        - generic [ref=f1e143]:
+          - paragraph [ref=f1e144]: For drivers
+          - heading "Keep your fare, protect your future" [level=3] [ref=f1e145]
+        - generic [ref=f1e146]:
+          - link "0% commission 100% of your fares MyKaab takes 0% commission. You pay a flat ₦5,000 on the days you drive, and every naira of the trip fare is yours. Learn more" [ref=f1e147] [cursor=pointer]:
+            - /url: /for-drivers
+            - generic [ref=f1e148]: 0% commission
+            - heading "100% of your fares" [level=3] [ref=f1e152]
+            - paragraph [ref=f1e153]: MyKaab takes 0% commission. You pay a flat ₦5,000 on the days you drive, and every naira of the trip fare is yours.
+            - generic [ref=f1e154]: Learn more
+          - link "Your choice Health cover, life cover and a pension Opt in to health cover (₦100 a trip), group life cover (₦50 a trip) and a pension with a registered administrator (₦150 a trip). Take any of them, none, or all three, and switch them off any time from the app. Learn more" [ref=f1e157] [cursor=pointer]:
+            - /url: /for-drivers#cover
+            - generic [ref=f1e158]: Your choice
+            - heading "Health cover, life cover and a pension" [level=3] [ref=f1e164]
+            - paragraph [ref=f1e165]: Opt in to health cover (₦100 a trip), group life cover (₦50 a trip) and a pension with a registered administrator (₦150 a trip). Take any of them, none, or all three, and switch them off any time from the app.
+            - generic [ref=f1e166]: Learn more
+          - link "12 months Vehicle insurance package Buy a year of third-party and theft motor insurance for your car from NPF Insurance inside the app. Pay from your wallet, get your certificate straight away, renew it and file a claim from the same screen. Learn more" [ref=f1e169] [cursor=pointer]:
+            - /url: /for-drivers#cover
+            - generic [ref=f1e170]: 12 months
+            - heading "Vehicle insurance package" [level=3] [ref=f1e176]
+            - paragraph [ref=f1e177]: Buy a year of third-party and theft motor insurance for your car from NPF Insurance inside the app. Pay from your wallet, get your certificate straight away, renew it and file a claim from the same screen.
+            - generic [ref=f1e178]: Learn more
+          - 'link "Every trip Insured while you drive Every trip you complete is covered, priced on your own safety record: drive safely and your cover costs less. Learn more" [ref=f1e181] [cursor=pointer]':
+            - /url: /for-drivers#cover
+            - generic [ref=f1e182]: Every trip
+            - heading "Insured while you drive" [level=3] [ref=f1e188]
+            - paragraph [ref=f1e189]: "Every trip you complete is covered, priced on your own safety record: drive safely and your cover costs less."
+            - generic [ref=f1e190]: Learn more
+          - link "Fair process No deactivation without a hearing Nobody is switched off by an algorithm. You see every card on your record with its evidence, and only a hearing, with a written reason from a named person, can suspend you. Learn more" [ref=f1e193] [cursor=pointer]:
+            - /url: /for-drivers
+            - generic [ref=f1e194]: Fair process
+            - heading "No deactivation without a hearing" [level=3] [ref=f1e203]
+            - paragraph [ref=f1e204]: Nobody is switched off by an algorithm. You see every card on your record with its evidence, and only a hearing, with a written reason from a named person, can suspend you.
+            - generic [ref=f1e205]: Learn more
+          - link "Hire purchase Own an electric car Apply for an electric vehicle from MyKaab outright or on hire purchase, with the weekly cost shown up front, and drive towards owning it. Learn more" [ref=f1e208] [cursor=pointer]:
+            - /url: /for-drivers
+            - generic [ref=f1e209]: Hire purchase
+            - heading "Own an electric car" [level=3] [ref=f1e214]
+            - paragraph [ref=f1e215]: Apply for an electric vehicle from MyKaab outright or on hire purchase, with the weekly cost shown up front, and drive towards owning it.
+            - generic [ref=f1e216]: Learn more
+          - link "Before payday Fuel and spare-parts advances Short of fuel money before your next payout? Apply for a fuel or spare-parts advance in the app, see exactly why you qualify or not, and repay from your trips. Learn more" [ref=f1e219] [cursor=pointer]:
+            - /url: /for-drivers
+            - generic [ref=f1e220]: Before payday
+            - heading "Fuel and spare-parts advances" [level=3] [ref=f1e226]
+            - paragraph [ref=f1e227]: Short of fuel money before your next payout? Apply for a fuel or spare-parts advance in the app, see exactly why you qualify or not, and repay from your trips.
+            - generic [ref=f1e228]: Learn more
+          - link "One account Multi-vehicle fleet management Own more than one car? Manage every vehicle and the drivers on them from one fleet account, with each car approved on its own papers. Learn more" [ref=f1e231] [cursor=pointer]:
+            - /url: /for-drivers
+            - generic [ref=f1e232]: One account
+            - heading "Multi-vehicle fleet management" [level=3] [ref=f1e238]
+            - paragraph [ref=f1e239]: Own more than one car? Manage every vehicle and the drivers on them from one fleet account, with each car approved on its own papers.
+            - generic [ref=f1e240]: Learn more
+        - 'link "Everything MyKaab does for drivers: all 20" [ref=f1e243] [cursor=pointer]':
+          - /url: /for-drivers#why
+      - generic [ref=f1e246]:
+        - generic [ref=f1e247]:
+          - paragraph [ref=f1e248]: For riders
+          - heading "Safer, clearer, easier to pay" [level=3] [ref=f1e249]
+        - generic [ref=f1e250]:
+          - link "₦350 a trip Insured on every trip Every passenger is covered by trip insurance for the whole journey. It is ₦350, named on your fare before you book. Learn more" [ref=f1e251] [cursor=pointer]:
+            - /url: /trip-insurance
+            - generic [ref=f1e252]: ₦350 a trip
+            - heading "Insured on every trip" [level=3] [ref=f1e258]
+            - paragraph [ref=f1e259]: Every passenger is covered by trip insurance for the whole journey. It is ₦350, named on your fare before you book.
+            - generic [ref=f1e260]: Learn more
+          - link "24/7 desk SOS, one press away Press SOS on the trip screen and our 24/7 safety desk sees the alert with your live location at once, your trusted contacts are sent the trip, and a silent recording starts so there is a record of what happened. Learn more" [ref=f1e263] [cursor=pointer]:
+            - /url: /safety
+            - generic [ref=f1e264]: 24/7 desk
+            - heading "SOS, one press away" [level=3] [ref=f1e272]
+            - paragraph [ref=f1e273]: Press SOS on the trip screen and our 24/7 safety desk sees the alert with your live location at once, your trusted contacts are sent the trip, and a silent recording starts so there is a record of what happened.
+            - generic [ref=f1e274]: Learn more
+          - link "Live link Share your trip with loved ones Send a live link so family and friends can follow the car on a map until you arrive. Save trusted contacts once and share in one tap. Learn more" [ref=f1e277] [cursor=pointer]:
+            - /url: /safety
+            - generic [ref=f1e278]: Live link
+            - heading "Share your trip with loved ones" [level=3] [ref=f1e287]
+            - paragraph [ref=f1e288]: Send a live link so family and friends can follow the car on a map until you arrive. Save trusted contacts once and share in one tap.
+            - generic [ref=f1e289]: Learn more
+          - link "Audio evidence Record your trip Either of you can record the trip's audio. The other person is told the moment it starts. The recording is kept for 30 days and only opened if there is a dispute. Learn more" [ref=f1e292] [cursor=pointer]:
+            - /url: /safety
+            - generic [ref=f1e293]: Audio evidence
+            - heading "Record your trip" [level=3] [ref=f1e299]
+            - paragraph [ref=f1e300]: Either of you can record the trip's audio. The other person is told the moment it starts. The recording is kept for 30 days and only opened if there is a dispute.
+            - generic [ref=f1e301]: Learn more
+          - link "Pay in a tap An in-app wallet Top up by bank transfer to your own account number and pay straight from your balance, or pay the driver in cash if you prefer. Learn more" [ref=f1e304] [cursor=pointer]:
+            - /url: /for-riders
+            - generic [ref=f1e305]: Pay in a tap
+            - heading "An in-app wallet" [level=3] [ref=f1e311]
+            - paragraph [ref=f1e312]: Top up by bank transfer to your own account number and pay straight from your balance, or pay the driver in cash if you prefer.
+            - generic [ref=f1e313]: Learn more
+          - link "Your choice Choose your driver When several drivers offer to take you, you see them all with how far away each one is, and pick. Before you accept, you see the driver's photo, rating and car, down to the plate. Learn more" [ref=f1e316] [cursor=pointer]:
+            - /url: /how-it-works
+            - generic [ref=f1e317]: Your choice
+            - heading "Choose your driver" [level=3] [ref=f1e325]
+            - paragraph [ref=f1e326]: When several drivers offer to take you, you see them all with how far away each one is, and pick. Before you accept, you see the driver's photo, rating and car, down to the plate.
+            - generic [ref=f1e327]: Learn more
+        - 'link "Everything MyKaab does for riders: all 14" [ref=f1e330] [cursor=pointer]':
+          - /url: /for-riders#why
+      - generic [ref=f1e333]:
+        - generic [ref=f1e334]:
+          - paragraph [ref=f1e335]: For business
+          - heading "Transport your company can rely on" [level=3] [ref=f1e336]
+        - link "For companies Corporate and executive transport Company accounts for staff transport, client pickups and executive travel, with Executive-class cars, central billing and one statement. Learn more" [ref=f1e338] [cursor=pointer]:
+          - /url: /business
+          - generic [ref=f1e339]: For companies
+          - heading "Corporate and executive transport" [level=3] [ref=f1e345]
+          - paragraph [ref=f1e346]: Company accounts for staff transport, client pickups and executive travel, with Executive-class cars, central billing and one statement.
+          - generic [ref=f1e347]: Learn more
+    - generic [ref=f1e351]:
+      - generic [ref=f1e352]:
+        - paragraph [ref=f1e353]: What you actually see
+        - heading "The price, before you commit." [level=2] [ref=f1e354]
+        - paragraph [ref=f1e355]: Base fare, distance, time and the two levies, each with its rate beside it, on the screen before you confirm. The receipt afterwards carries the same lines.
+        - generic [ref=f1e356]:
+          - generic [ref=f1e357]:
+            - generic [ref=f1e358]: "01"
+            - generic [ref=f1e359]: Every charge named
+          - generic [ref=f1e360]:
+            - generic [ref=f1e361]: "02"
+            - generic [ref=f1e362]: Insured on every trip
+          - generic [ref=f1e363]:
+            - generic [ref=f1e364]: "03"
+            - generic [ref=f1e365]: ₦380 of levies, passed on in full
+        - link "The whole rate card" [ref=f1e366] [cursor=pointer]:
+          - /url: /fares
+      - generic [ref=f1e369]:
+        - img "A preview of the MyKaab rider app showing an itemised fare" [ref=f1e371]:
+          - generic [ref=f1e374]:
+            - generic [ref=f1e375]: 9:41
+            - generic [ref=f1e381]:
+              - generic [ref=f1e382]: M
+              - strong [ref=f1e383]: Rider
+            - generic [ref=f1e387]:
+              - generic [ref=f1e394]: 4 min away
+              - generic [ref=f1e396]: Trip shared
+            - generic [ref=f1e400]:
+              - generic [ref=f1e402]: CHOOSE YOUR RIDE
+              - generic [ref=f1e403]:
+                - generic [ref=f1e404]: E
+                - generic [ref=f1e405]:
+                  - generic [ref=f1e406]: Economy
+                  - generic [ref=f1e407]: ₦150/km · ₦50/min
+                - strong [ref=f1e408]: ₦5,830
+              - generic [ref=f1e412]:
+                - generic [ref=f1e413]: C
+                - generic [ref=f1e414]:
+                  - generic [ref=f1e415]: Comfort
+                  - generic [ref=f1e416]: ₦210/km · ₦70/min
+                - strong [ref=f1e417]: ₦8,010
+              - generic [ref=f1e418]:
+                - generic [ref=f1e419]:
+                  - generic [ref=f1e420]: Base fare
+                  - generic [ref=f1e421]: ₦2,500
+                - generic [ref=f1e422]:
+                  - generic [ref=f1e423]: 11 km × ₦150
+                  - generic [ref=f1e424]: ₦1,650
+                - generic [ref=f1e425]:
+                  - generic [ref=f1e426]: 26 min × ₦50
+                  - generic [ref=f1e427]: ₦1,300
+                - generic [ref=f1e428]:
+                  - generic [ref=f1e429]: Waiting (3 min free)
+                  - generic [ref=f1e430]: ₦0
+                - generic [ref=f1e431]:
+                  - generic [ref=f1e432]: Levies, passed on in full
+                  - generic [ref=f1e433]: ₦380
+              - generic [ref=f1e434]:
+                - generic [ref=f1e435]: You pay
+                - strong [ref=f1e436]: ₦5,830
+              - button "Confirm pickup"
+        - generic [ref=f1e437]:
+          - strong [ref=f1e438]: ₦0
+          - generic [ref=f1e439]: platformcommission
+        - generic [ref=f1e440]:
+          - generic [ref=f1e441]: Driver keeps
+          - strong [ref=f1e442]: ₦5,450
+          - text: the whole trip fare
+    - generic [ref=f1e443]:
+      - generic [ref=f1e444]:
+        - generic [ref=f1e445]:
+          - paragraph [ref=f1e446]: One trip, two people
+          - heading "Nothing hidden from either side." [level=2] [ref=f1e447]
+        - paragraph [ref=f1e448]: Riders see the price before they get in. Drivers see what the rider paid and what reached them. The numbers match.
+      - generic [ref=f1e449]:
+        - article [ref=f1e451]:
+          - generic [ref=f1e452]: "01"
+          - generic [ref=f1e453]:
+            - paragraph [ref=f1e454]: For drivers
+            - strong [ref=f1e455]: 0%
+            - heading "Zero commission." [level=3] [ref=f1e456]
+            - paragraph [ref=f1e457]: MyKaab runs on one flat subscription of ₦5,000 a day, charged only on the days you drive, not a cut of your trips. What the passenger pays for the journey is yours.
+          - generic [ref=f1e458]:
+            - generic [ref=f1e459]:
+              - generic [ref=f1e460]: Passenger pays
+              - generic [ref=f1e461]: Trip fare
+            - generic [ref=f1e464]:
+              - generic [ref=f1e465]: Driver keeps
+              - generic [ref=f1e466]: All of it
+        - article [ref=f1e468]:
+          - generic [ref=f1e469]: "02"
+          - generic [ref=f1e470]:
+            - paragraph [ref=f1e471]: For riders
+            - heading "An itemised quote." [level=3] [ref=f1e472]
+            - paragraph [ref=f1e473]: Base fare, distance, time and the two levies are listed before you confirm.
+          - generic [ref=f1e474]:
+            - generic [ref=f1e475]:
+              - generic [ref=f1e476]: Base fare
+              - generic [ref=f1e477]: ₦2,500
+            - generic [ref=f1e478]:
+              - generic [ref=f1e479]: Per kilometre
+              - generic [ref=f1e480]: ₦150
+            - generic [ref=f1e481]:
+              - generic [ref=f1e482]: Per minute
+              - generic [ref=f1e483]: ₦50
+        - article [ref=f1e485]:
+          - generic [ref=f1e486]: "03"
+          - generic [ref=f1e487]:
+            - paragraph [ref=f1e488]: With AUATON
+            - heading "The union keeps its authority." [level=3] [ref=f1e489]
+            - paragraph [ref=f1e490]: MyKaab runs the technology. AUATON decides who belongs to the union.
+          - generic [ref=f1e491]:
+            - generic [ref=f1e492]: MEMBER ID FORMAT
+            - generic [ref=f1e496]: Confirmed by a chapter officer
+    - generic [ref=f1e498]:
+      - heading "Abuja and Lagos, on one rate card" [level=2] [ref=f1e499]
+      - paragraph [ref=f1e500]: Where MyKaab operates today, and what it costs in each — which is the same thing, because the published card is national.
+      - generic [ref=f1e501]:
+        - generic [ref=f1e502]:
+          - article [ref=f1e503]:
+            - generic [ref=f1e509]:
+              - heading "Abuja" [level=3] [ref=f1e510]
+              - paragraph [ref=f1e511]: Federal Capital Territory
+              - generic [ref=f1e512]: Head office
+          - article [ref=f1e515]:
+            - generic [ref=f1e521]:
+              - heading "Lagos" [level=3] [ref=f1e522]
+              - paragraph [ref=f1e523]: Lagos State
+        - generic [ref=f1e524]:
+          - heading "One rate card, both cities." [level=3] [ref=f1e525]
+          - paragraph [ref=f1e526]:
+            - text: Rates are national. Economy is
+            - strong [ref=f1e527]: ₦2,500
+            - text: to start and
+            - strong [ref=f1e528]: ₦150
+            - text: a kilometre whether the trip is in Abuja or Lagos. A state can be given its own card by the operator, and prices from the national one until it is — so nobody pays more for being somewhere.
+          - paragraph [ref=f1e529]: More cities follow the union. AUATON chapters decide where their members work, and coverage grows with them rather than ahead of them.
+    - generic [ref=f1e531]:
+      - paragraph [ref=f1e532]: One journey. Two people.
+      - heading "Both sides can see where the money goes." [level=2] [ref=f1e533]
+      - generic [ref=f1e534]:
+        - article [ref=f1e535]:
+          - text: STEP 01
+          - generic [ref=f1e536]: "1"
+          - heading "Passenger fare" [level=3] [ref=f1e537]
+          - paragraph [ref=f1e538]: Itemised before you book
+        - article [ref=f1e539]:
+          - text: STEP 02
+          - generic [ref=f1e540]: "2"
+          - heading "MyKaab commission" [level=3] [ref=f1e541]
+          - paragraph [ref=f1e542]: ₦0
+        - article [ref=f1e543]:
+          - text: STEP 03
+          - generic [ref=f1e544]: "3"
+          - heading "Driver receives" [level=3] [ref=f1e545]
+          - paragraph [ref=f1e546]: The trip fare, less tax withheld for them
+    - generic [ref=f1e548]:
+      - heading "Where to next" [level=2] [ref=f1e549]
+      - paragraph [ref=f1e550]: "Every subject has a page of its own, with the real figures on it: 3 classes of car, two levies on the passenger’s bill totalling ₦380, and nothing taken from the driver for cover they did not choose."
+      - generic [ref=f1e551]:
+        - link "The whole rate card Every class, every rate, and a worked example you can adjust." [ref=f1e552] [cursor=pointer]:
+          - /url: /fares
+          - generic [ref=f1e553]:
+            - generic [ref=f1e554]: The whole rate card
+            - generic [ref=f1e555]: Every class, every rate, and a worked example you can adjust.
+        - link "For riders What you see before you book, and what to do if something is wrong." [ref=f1e558] [cursor=pointer]:
+          - /url: /for-riders
+          - generic [ref=f1e559]:
+            - generic [ref=f1e560]: For riders
+            - generic [ref=f1e561]: What you see before you book, and what to do if something is wrong.
+        - link "For drivers What you keep, what is withheld, and a month costed both ways." [ref=f1e564] [cursor=pointer]:
+          - /url: /for-drivers
+          - generic [ref=f1e565]:
+            - generic [ref=f1e566]: For drivers
+            - generic [ref=f1e567]: What you keep, what is withheld, and a month costed both ways.
+        - link "For business Staff transport, client pickups and executive travel on one account." [ref=f1e570] [cursor=pointer]:
+          - /url: /business
+          - generic [ref=f1e571]:
+            - generic [ref=f1e572]: For business
+            - generic [ref=f1e573]: Staff transport, client pickups and executive travel on one account.
+        - link "Trip insurance The ₦350 on your bill, and what it covers." [ref=f1e576] [cursor=pointer]:
+          - /url: /trip-insurance
+          - generic [ref=f1e577]:
+            - generic [ref=f1e578]: Trip insurance
+            - generic [ref=f1e579]: The ₦350 on your bill, and what it covers.
+        - link "Safety Checks before the first trip, number masking, SOS and recording." [ref=f1e582] [cursor=pointer]:
+          - /url: /safety
+          - generic [ref=f1e583]:
+            - generic [ref=f1e584]: Safety
+            - generic [ref=f1e585]: Checks before the first trip, number masking, SOS and recording.
+        - link "AUATON How the union and the platform divide authority." [ref=f1e588] [cursor=pointer]:
+          - /url: /auaton
+          - generic [ref=f1e589]:
+            - generic [ref=f1e590]: AUATON
+            - generic [ref=f1e591]: How the union and the platform divide authority.
+        - link "News and articles Fare changes, notices, and longer pieces on driving." [ref=f1e594] [cursor=pointer]:
+          - /url: /blog
+          - generic [ref=f1e595]:
+            - generic [ref=f1e596]: News and articles
+            - generic [ref=f1e597]: Fare changes, notices, and longer pieces on driving.
+        - link "Get the app Download the rider and driver apps." [ref=f1e600] [cursor=pointer]:
+          - /url: /download
+          - generic [ref=f1e601]:
+            - generic [ref=f1e602]: Get the app
+            - generic [ref=f1e603]: Download the rider and driver apps.
+    - generic [ref=f1e607]:
+      - generic [ref=f1e608]:
+        - paragraph [ref=f1e609]: Get the app
+        - heading "Ride or drive, starting today." [level=2] [ref=f1e610]
+        - paragraph [ref=f1e611]: Both apps are on Google Play now. On iPhone, ask for an invitation and we will add you to the test group.
+        - paragraph [ref=f1e612]:
+          - link "Both apps, and the iPhone versions" [ref=f1e613] [cursor=pointer]:
+            - /url: /download
+      - generic [ref=f1e616]:
+        - link "MyKaab Rider Book, track and pay Get it on Google Play" [ref=f1e617] [cursor=pointer]:
+          - /url: https://play.google.com/store/apps/details?id=com.triaxride.rider
+          - generic [ref=f1e618]:
+            - generic [ref=f1e619]: MyKaab Rider
+            - generic [ref=f1e620]: Book, track and pay
+          - strong [ref=f1e621]: Get it on Google Play
+        - link "MyKaab Driver Sign up, get verified, keep your fare Get it on Google Play" [ref=f1e624] [cursor=pointer]:
+          - /url: https://play.google.com/store/apps/details?id=com.triaxride.driver
+          - generic [ref=f1e625]:
+            - generic [ref=f1e626]: MyKaab Driver
+            - generic [ref=f1e627]: Sign up, get verified, keep your fare
+          - strong [ref=f1e628]: Get it on Google Play
+  - contentinfo [ref=f1e631]:
+    - generic [ref=f1e632]:
+      - generic [ref=f1e633]:
+        - link "MyKaab home" [ref=f1e634] [cursor=pointer]:
+          - /url: /
+          - img "MyKaab" [ref=f1e636]
+        - heading [level=2] [ref=f1e637]:
+          - text: Ride with Nigeria.
+          - emphasis [ref=f1e638]: Earn with Nigeria.
+        - link "Get the app" [ref=f1e639] [cursor=pointer]:
+          - /url: /download
+        - generic [ref=f1e642]:
+          - link "09164024300" [ref=f1e643] [cursor=pointer]:
+            - /url: tel:+2349164024300
+          - link "09081111175" [ref=f1e646] [cursor=pointer]:
+            - /url: tel:+2349081111175
+          - link "09081111107" [ref=f1e649] [cursor=pointer]:
+            - /url: tel:+2349081111107
+          - link "09161783679" [ref=f1e652] [cursor=pointer]:
+            - /url: tel:+2349161783679
+          - link "support@mykaab.com.ng" [ref=f1e655] [cursor=pointer]:
+            - /url: mailto:support@mykaab.com.ng
+          - link "mykaab@mykaab.com.ng" [ref=f1e659] [cursor=pointer]:
+            - /url: mailto:mykaab@mykaab.com.ng
+          - generic [ref=f1e663]: Abuja · Lagos, Nigeria
+        - generic [ref=f1e667]:
+          - link "The MyKaab WhatsApp channel" [ref=f1e668] [cursor=pointer]:
+            - /url: https://whatsapp.com/channel/0029VbDtgvjDeONC5dnyHr1G
+          - link "MyKaab on Instagram" [ref=f1e671] [cursor=pointer]:
+            - /url: https://www.instagram.com/mykaab.ng/
+          - link "MyKaab on TikTok" [ref=f1e675] [cursor=pointer]:
+            - /url: https://www.tiktok.com/@mykaab.ng
+      - generic [ref=f1e678]:
+        - generic [ref=f1e679]:
+          - generic [ref=f1e680]: Riders
+          - link "For riders" [ref=f1e681] [cursor=pointer]:
+            - /url: /for-riders
+          - link "Fares" [ref=f1e682] [cursor=pointer]:
+            - /url: /fares
+          - link "Trip insurance" [ref=f1e683] [cursor=pointer]:
+            - /url: /trip-insurance
+          - link "Safety" [ref=f1e684] [cursor=pointer]:
+            - /url: /safety
+          - link "How it works" [ref=f1e685] [cursor=pointer]:
+            - /url: /how-it-works
+        - generic [ref=f1e686]:
+          - generic [ref=f1e687]: Drivers
+          - link "For drivers" [ref=f1e688] [cursor=pointer]:
+            - /url: /for-drivers
+          - link "Earnings and cover" [ref=f1e689] [cursor=pointer]:
+            - /url: /for-drivers#cover
+          - link "For business" [ref=f1e690] [cursor=pointer]:
+            - /url: /business
+          - link "AUATON" [ref=f1e691] [cursor=pointer]:
+            - /url: /auaton
+          - link "Get the app" [ref=f1e692] [cursor=pointer]:
+            - /url: /download
+        - generic [ref=f1e693]:
+          - generic [ref=f1e694]: Company
+          - link "About MyKaab" [ref=f1e695] [cursor=pointer]:
+            - /url: /about
+          - link "News and articles" [ref=f1e696] [cursor=pointer]:
+            - /url: /blog
+          - link "Questions" [ref=f1e697] [cursor=pointer]:
+            - /url: /faq
+          - link "Contact" [ref=f1e698] [cursor=pointer]:
+            - /url: /contact
+          - link "Support" [ref=f1e699] [cursor=pointer]:
+            - /url: /help
+        - generic [ref=f1e700]:
+          - generic [ref=f1e701]: Legal
+          - link "Privacy policy" [ref=f1e702] [cursor=pointer]:
+            - /url: /privacy
+          - link "Terms of service" [ref=f1e703] [cursor=pointer]:
+            - /url: /terms
+          - link "Delete your account" [ref=f1e704] [cursor=pointer]:
+            - /url: /account-deletion
+          - link "Portal sign-in" [ref=f1e705] [cursor=pointer]:
+            - /url: /login
+    - generic [ref=f1e706]:
+      - generic [ref=f1e707]: © 2026 MyKaab.
+      - generic [ref=f1e708]: Operated with AUATON.
+      - generic [ref=f1e709]: Built in Nigeria.
+  - link "WhatsApp" [ref=f1e711] [cursor=pointer]:
+    - /url: https://whatsapp.com/channel/0029VbDtgvjDeONC5dnyHr1G
