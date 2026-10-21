@@ -1,7 +1,7 @@
 import React, { useEffect, useLayoutEffect, useRef, useState } from 'react';
 import { createRoot } from 'react-dom/client';
 import { AnimatePresence, motion, useReducedMotion } from 'motion/react';
-import { ArrowDown, ArrowUpRight, Download, FileText, Menu, X } from 'lucide-react';
+import { ArrowDown, ArrowUpRight, Download, FileText, Menu, Moon, Sun, X } from 'lucide-react';
 import { gsap } from 'gsap';
 import { projects, site } from './data';
 import './styles.css';
@@ -22,19 +22,23 @@ function Reveal({ children, d = 0 }: { children: React.ReactNode; d?: number }) 
 
 function Nav() {
   const [open, setOpen] = useState(false);
+  const [dark, setDark] = useState(() => localStorage.getItem('theme') === 'dark');
   useEffect(() => { document.body.style.overflow = open ? 'hidden' : ''; return () => { document.body.style.overflow = ''; }; }, [open]);
+  useEffect(() => { document.documentElement.classList.toggle('dark', dark); localStorage.setItem('theme', dark ? 'dark' : 'light'); }, [dark]);
   const go = (id: string) => { setOpen(false); document.getElementById(id)?.scrollIntoView({ behavior: 'smooth' }); };
+  const toggleTheme = () => setDark(value => !value);
   return <>
     <header className="nav glass">
       <button className="brand" onClick={() => scrollTo({ top: 0, behavior: 'smooth' })}>Usiju<span>.</span></button>
       <nav>{links.map(([label, id]) => <button key={id} onClick={() => go(id)}>{label}</button>)}</nav>
-      <div className="navActions"><a className="navCv" href="/cv/peter-usiju-cv.pdf" target="_blank" rel="noreferrer">CV <Download size={14} /></a><Btn href="#contact">Contact</Btn></div>
+      <div className="navActions"><button className="themeToggle" onClick={toggleTheme} aria-label={`Switch to ${dark ? 'light' : 'dark'} mode`} aria-pressed={dark}>{dark ? <Sun size={16} /> : <Moon size={16} />}</button><a className="navCv" href="/cv/peter-usiju-cv.pdf" target="_blank" rel="noreferrer">CV <Download size={14} /></a><Btn href="#contact">Contact</Btn></div>
       <button className="menu" onClick={() => setOpen(true)} aria-label="Open menu"><Menu /></button>
     </header>
     <AnimatePresence>{open && <motion.div className="mobile glass" initial={{ opacity: 0, y: -10 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0 }}>
       <button className="close" onClick={() => setOpen(false)} aria-label="Close menu"><X /></button>
       {links.map(([label, id]) => <button key={id} onClick={() => go(id)}>{label}<ArrowUpRight /></button>)}
       <a className="mobileCv" href="/cv/peter-usiju-cv.pdf" target="_blank" rel="noreferrer">View CV <Download size={16} /></a>
+      <button className="mobileTheme" onClick={toggleTheme}>{dark ? 'Light mode' : 'Dark mode'} {dark ? <Sun size={16} /> : <Moon size={16} />}</button>
     </motion.div>}</AnimatePresence>
   </>;
 }
