@@ -17,7 +17,7 @@ function Label({ n }: { n: string }) { return <div className="label">{n}</div>; 
 
 function Reveal({ children, d = 0 }: { children: React.ReactNode; d?: number }) {
   const reduce = useReducedMotion();
-  return <motion.div initial={reduce ? false : { opacity: 0, y: 24 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true, amount: .15 }} transition={{ duration: .7, delay: d, ease }}>{children}</motion.div>;
+  return <motion.div initial={reduce ? false : { opacity: 0, y: 14 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true, amount: .15 }} transition={{ duration: .55, delay: d, ease }}>{children}</motion.div>;
 }
 
 function Nav() {
@@ -49,7 +49,6 @@ function Hero() {
     return () => context.revert();
   }, [reduce]);
   return <section className="hero heroLuzia" ref={root}>
-    <div className="heroLeft"><h1><span>Digital ideas,</span><span className="blue">made clear.</span></h1></div>
     <div className="heroPhoto" ref={photo}><div className="portrait"><img src="/images/usiju-peter.webp" alt="Usiju Peter" width="640" height="640" fetchPriority="high" decoding="async" /></div></div>
     <motion.div className="heroRight" initial={reduce ? false : { opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: .7, delay: .5, ease }}>
       <p>I’m Usiju, a creative developer crafting clear, considered websites and digital experiences that move with purpose.</p>
@@ -64,8 +63,8 @@ function Work() {
     <Reveal><div className="workTop"><div><Label n="01 / SELECTED WORK" /><h2>Selected Projects</h2></div></div></Reveal>
     <div className="workTiles">{projects.map((project, index) => <Reveal d={index * .08} key={project.slug}>
       <a className="liveProject" href={project.live} target="_blank" rel="noreferrer" aria-label={`View ${project.title} live website`}>
-        <img src={project.image} alt={`${project.title} website preview`} loading="lazy" />
-        <span className="projectHover">View Project <ArrowUpRight size={16} /></span>
+        <div className="projectPreview"><img src={project.image} alt={`${project.title} website preview`} loading="lazy" /></div>
+        <div className="projectInfo"><h3>{project.title}</h3><span>{project.category}</span><b className="projectHover">View Project <ArrowUpRight size={16} /></b></div>
       </a>
     </Reveal>)}</div>
   </section>;
@@ -97,7 +96,7 @@ function Contact() {
 }
 
 function Footer() {
-  return <footer><div><b>Usiju Peter</b><p>Creating thoughtful digital experiences.</p></div><div>{links.map(([label, id]) => <a key={id} href={`#${id}`}>{label}</a>)}<a href={site.socials.linkedin} target="_blank" rel="noreferrer">LinkedIn</a><a href={site.socials.x} target="_blank" rel="noreferrer">X</a></div><small>© 2026 Usiju Peter. All rights reserved.</small></footer>;
+  return <footer><div><b>Usiju Peter</b><p className="footerTagline">Digital ideas, made clear.</p></div><div>{links.map(([label, id]) => <a key={id} href={`#${id}`}>{label}</a>)}<a href={site.socials.linkedin} target="_blank" rel="noreferrer">LinkedIn</a><a href={site.socials.x} target="_blank" rel="noreferrer">X</a></div><small>© 2026 Usiju Peter. All rights reserved.</small></footer>;
 }
 
 function App() { return <><Nav /><main><Hero /><Work /><About /><Contact /></main><Footer /></>; }
